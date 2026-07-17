@@ -1,2 +1,2 @@
 # steam-evolution
-The code in Tao et al. 2026 o br shared publicly
+The evolution code and steam atmospheric escape grids from  Tao et al. 2026 (in prep).
