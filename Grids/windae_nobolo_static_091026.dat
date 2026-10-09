@@ -21,7 +21,7 @@
 #   run_wind: sim.run_wind() output. 0- wind launched, else- wind failed
 #   rochelim: 0- planet outside Roche limit, 1- planet within Roche limit
 #
-# Created: November 03, 2025
+# Created: October 09, 2026
 # Units: SI, astronomical
 # Pure H2O atmosphere, no conductive or bolometric heat/cool, static bcs.
 ##################################################################################
